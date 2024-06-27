@@ -1,3 +1,3 @@
 # learn-github
 
-Name : Auekan Bissanthia        
+Name : Auekan Binsanthia        
